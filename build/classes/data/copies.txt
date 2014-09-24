@@ -1,0 +1,25 @@
+0;Times;available
+0;Data Communications;available
+0;Principles of Distributed Systems;available
+0;Computer Networks;loaned
+1;Computer Networks;loaned
+0;Programming in C++;loaned
+0;Cloud Technologies;available
+0;Himal;available
+0;The Economist;available
+0;Goraksya Nikhil Badi;available
+0;Los Angeles Times;available
+0;Evening;available
+0;Morning;available
+0;Noon;loaned
+1;Noon;loaned
+0;The Hero;available
+0;The Heros;available
+0;Next;loaned
+0;Test;available
+1;Test;loaned
+2;Test;loaned
+0;Programming in Java;loaned
+0;Nepal;available
+1;The Economist;available
+2;The Economist;loaned

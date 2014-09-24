@@ -1,0 +1,13 @@
+Binod;Gautam;5784439633;1000N 4th Street;Fairfield;Iowa;53843;1
+Ramesh;Gautam;6784439633;1000N 5th Street;Los Angeles;California;63843;2
+Vinod;Paudel;5884439633;500N 6th Street;Fairfield;Iowa;54843;3
+Ramesh;Karki;5782439633;100S 4th Street;Fairfield;Iowa;53943;4
+Binti;Adhikari;5734439633;200E 5th Street;Dallas; Texas;53853;5
+Shyam;Timilsina;5084439633;1000N th Street;Dallas;Texas;53844;6
+Hari;Thapa;5784433633;300W 4th Street;Los Angeles;California;53443;7
+Deepen;Chapagain;5714439633;800N 1st Street;Los Angeles;California;53343;8
+Shayak;Giri;5784439233;1000N 4th Street;Fairfield;Iowa;53043;9
+Preeti;Shrestha;9784439633;485S 4th Street;Dallas; Texas;53842;10
+ Gyanu;Maharjan;9876543210;Satdobato;Lalitpur;Lalitpur;977;11
+ Gyan;Bista;9876453210;3E 4th Street;Pisa;Intruda;872;12
+ Ajay;Shah;7890653412;1E 1st County;Villa;Village;0;13

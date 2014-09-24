@@ -1,0 +1,10 @@
+William;Stalling;5784430633;1000N 4th Street;Fairfield;Iowa;53843;PhD;MIT
+Andrew;Tanenbaum;6789439633;1000N 5th Street;Los Angeles;California;63843;post-PhD;MIT
+Balaguru;Swami;5881439633;500N 6th Street;Delhi;New Delhi;54843;PhD;IIT
+Henry;Watkins;5934439633;200E 5th Street;Dallas; Texas;53853;PhD;MIT
+David;White;5724439633;800N 1st Street;Los Angeles;California;53343;PhD;Harvard
+Daniel;Wright;9856321532;100E 3rd Street;Fairfield;Iowa;5387;MA;Oxford scholar
+Daddy;Wri;9856321532;10E 3rd Street;Fairfield;California;5487;BTech;Kantipur scholar
+Rishi;Tripati;1267345890;20N 20th Street;Ritka;Chicago;6546;BTech;Kantipur scholar
+Anti;Phtjha;2365147089;Khare;Pokhara;Gandaki;977;BTech;Kantipur scholar
+Jack;Wilson;1234567890;34S 1st Street;Ritz;Missouri;836;Sr. Programmer;Sudan University scholar

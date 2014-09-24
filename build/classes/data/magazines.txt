@@ -1,0 +1,11 @@
+Times;23
+Los Angeles Times;56
+Himal;45
+The Economist;34
+Goraksya Nikhil Badi;50
+Evening;10
+Morning;5
+Noon;8
+Next;12
+Test;99
+Nepal;10
